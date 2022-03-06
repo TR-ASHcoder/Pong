@@ -6,6 +6,7 @@ Pong is a table tennis–themed arcade sports video game, featuring simple two-d
 # this game is two player btw
 
 controls:
+
 left: *w,s*
 
 right: *UP,DOWN*
