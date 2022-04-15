@@ -5,7 +5,7 @@ Pong is a table tennis–themed arcade sports video game, featuring simple two-d
 
 # Disclaimer
 
-this game only works on windows 
+.exe file only works on windows 
 
 ------
 
