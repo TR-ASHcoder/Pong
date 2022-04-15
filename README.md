@@ -2,8 +2,11 @@
 Pong is a table tennis–themed arcade sports video game, featuring simple two-dimensional graphics, manufactured by Atari and originally released in 1972.
 
 -------
+
 # Disclaimer
+
 this game only works on windows 
+
 ------
 
 # this game is two player btw
